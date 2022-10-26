@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<!DOCTYPE listaPedidos SYSTEM "ReglasPedidos.dtd">
+<listaPedidos>
+    <pedido>
+        <numeroSerie>0101100100</numeroSerie>
+        <cantidad>20</cantidad>
+    </pedido>
+    <pedido>
+        <numeroSerie>0101100100</numeroSerie>
+        <cantidad>20</cantidad>
+        <peso>10kg</peso>
+    </pedido>
+</listaPedidos>
